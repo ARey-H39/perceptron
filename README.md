@@ -1,6 +1,6 @@
 # Perceptron
 
-> Basic building block to advanced neural networks in Deep Learning
+> Basic building block for advanced neural networks in Deep Learning
 
 ## About
 This repository contains an implementation of a basic perceptron, a type of artificial neural network and supervised learning algorithm. The perceptron is primarily used for binary classification tasks, where it learns to classify data points into one of two categories.
