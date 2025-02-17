@@ -11,7 +11,7 @@ This repository contains an implementation of a basic perceptron, a type of arti
 - Demonstrates basic principles of machine learning and neural networks.
 - **Activation Function:** Sigmoid function
 - **Loss Function:** Binary Cross Entropy (Log Loss)
-- **Dataset**: Iris dataset, limited to Setosa and Versicolor iris classes.
+- **Dataset:** Iris dataset, limited to Setosa and Versicolor iris classes.
 
 ## Files
 
